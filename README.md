@@ -1,2 +1,2 @@
 # Github-Workshop
-Starter code for Spartan Hacker memebrs to practice with
+Starter code for Spartan Hacker members to practice with
